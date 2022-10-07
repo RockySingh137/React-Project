@@ -216,7 +216,9 @@ It is because, in merge sort, an extra variable is required for swapping.
 
 - External sorting
 ![Capture](https://static.javatpoint.com/dbms/images/external-sort-merge-algorithm.png)
+
 - E-commerce applications
+
 ![Capture](https://www.meme-arsenal.com/memes/72ec72af711382663ea6a337f7e4fb2d.jpg)
 * * * * *
 ## **Resources**
